@@ -1,1 +1,1 @@
-# Beat_Snap
+I am creating a website for music producers to post their incomplete beats; clips will be 30 seconds or less and other users will be able to vote to complete it or scrap it. I created tables that will hold user data, audio data, and vote data.
